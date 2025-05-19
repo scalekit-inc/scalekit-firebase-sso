@@ -48,3 +48,7 @@ npm run dev
 ## License
 
 MIT License
+
+## Credits
+
+We took this base repo from Wanuja to build out our sample application: <https://github.com/Wanuja97/firebase-authentication-with-react-node-express-article>
