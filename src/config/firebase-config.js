@@ -5,12 +5,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUT_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUT_APP_ID"
+  apiKey: "AIzaSyC86AOMsSLM3GJeFp1UP-CSD0jLmwa7vzw",
+  authDomain: "devramp-27fb1.firebaseapp.com",
+  projectId: "devramp-27fb1",
+  storageBucket: "devramp-27fb1.appspot.com",
+  messagingSenderId: "373840568539",
+  appId: "1:373840568539:web:f07955d10e526682266cfe",
+  measurementId: "G-Z40QT75ZGX"
 };
 
 // Initialize Firebase
