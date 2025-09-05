@@ -85,12 +85,12 @@ npm run dev
 
 ## Additional Resources
 
-- 📚 [Firebase Integration Guide](https://docs.scalekit.com/integrations/firebase)
-- 🔧 [Scalekit API Reference](https://docs.scalekit.com/apis)
-- 💬 [Community Support](https://github.com/scalekit-inc/scalekit-sdk-node-js/discussions)
-- 🎯 [Get Started Guide](https://docs.scalekit.com/quick-start-guide)
-- ⚡ [Firebase Documentation](https://firebase.google.com/docs)
-- 🔥 [Firebase Identity Platform](https://firebase.google.com/docs/auth)
+  - 📚 [Scalekit Documentation](https://docs.scalekit.com)
+  - 🔧 [API Reference](https://docs.scalekit.com/apis/)
+  - 🚀 [Full Stack Auth Quickstart](https://docs.scalekit.com/fsa/quickstart/)
+  - 💬 [Community Examples](https://github.com/orgs/scalekit-developers/repositories)
+  - ⚡ [Firebase Documentation](https://firebase.google.com/docs)
+  - 🔥 [Firebase Identity Platform](https://firebase.google.com/docs/auth)
 
 ## License
 MIT License
