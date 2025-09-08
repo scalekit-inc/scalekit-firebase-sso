@@ -1,5 +1,35 @@
-# Scalekit + Firebase integration for SAML / OIDC based SSO Implementation
-If you are currently using Firebase as your authentication platform for password based login or social login methods and want to implement Enterprise SSO using Scalekit, this repo shows how to integrate Scalekit with Firebase in just a few hours and support SAML SSO login and onboard your enterprise customers effectively. 
+<p align="center">
+  <a href="https://scalekit.com" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <img src="https://cdn.scalekit.cloud/v1/scalekit-logo-dark.svg" height="64">
+    </picture>
+  </a>
+</p>
+
+<h1 align="center">
+  Firebase + Scalekit SSO Integration
+</h1>
+
+<p align="center">
+  <strong>Auth stack for AI apps ⚡ Enterprise SSO with Firebase</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@scalekit-sdk/node"><img src="https://img.shields.io/npm/v/@scalekit-sdk/node.svg" alt="npm version"></a>
+  <a href="https://github.com/scalekit-inc/scalekit-firebase-sso/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://docs.scalekit.com/integrations/firebase"><img src="https://img.shields.io/badge/docs-Firebase%20Integration-blue" alt="Firebase Integration Guide"></a>
+</p>
+
+<p align="center">
+  Add enterprise SAML/OIDC SSO to your existing Firebase authentication in hours, not weeks
+</p>
+
+## 🚀 What This Integration Shows
+
+- **Dual Authentication Strategy**: Keep existing Firebase auth while adding enterprise SSO
+- **Multiple Integration Patterns**: OIDC provider setup and custom token approaches
+- **Zero Migration Required**: Add enterprise SSO without changing existing users or flows
+- **Production-Ready Implementation**: Error handling, security, and scalability patterns 
 
 ## Implementation Choices
 Firebase and Scalekit can be integrated in multiple ways depending on what you prefer and how you choose to implement. 
@@ -45,8 +75,31 @@ npm install
 npm run dev
 ```
 
+## Key Integration Benefits
+
+- **Keep Existing Users**: No migration needed for current Firebase users
+- **Dual Authentication**: Consumer and enterprise users in the same application
+- **Enterprise Grade**: SAML/OIDC support for major identity providers  
+- **Flexible Architecture**: Choose OIDC provider or custom token approach
+- **Scalable Solution**: Handle thousands of enterprise organizations
+
+## Additional Resources
+
+  - 📚 [Scalekit Documentation](https://docs.scalekit.com)
+  - 🔧 [API Reference](https://docs.scalekit.com/apis/)
+  - 🚀 [Full Stack Auth Quickstart](https://docs.scalekit.com/fsa/quickstart/)
+  - 💬 [Community Examples](https://github.com/orgs/scalekit-developers/repositories)
+  - ⚡ [Firebase Documentation](https://firebase.google.com/docs)
+  - 🔥 [Firebase Identity Platform](https://firebase.google.com/docs/auth)
+
 ## License
 MIT License
 
 ## Credits
 We would like to thank Wanuja for creating the base React, Firebase repo that we used to build on top of: <https://github.com/Wanuja97/firebase-authentication-with-react-node-express-article>
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://scalekit.com">Scalekit</a>
+</p>
